@@ -28,7 +28,7 @@ You can easily install MagicAntiSpam by running the following commands:
 ```bash
 # Tested on Ubuntu 16.04
 
-$ wget https://raw.githubusercontent.com/LeeMute/iAgree/master/install.sh
+$ wget https://raw.githubusercontent.com/LeeMute/Agree/master/install.sh
 $ bash install.sh
 ```
 or
@@ -47,7 +47,7 @@ $ pip install --upgrade redis
 
 # Clone the repository and give the launch script permissions to be executed
 
-$ git clone https://github.com/LeeMute/iAgree.git
+$ git clone https://github.com/LeeMute/Agree.git
 $ cd ASMagic
 $ sudo chmod 777 launch.sh
 ```
