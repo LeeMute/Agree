@@ -49,7 +49,7 @@ f = Holder()
 
 def check_cmds(bot,m,l) :
     # Commands
-    if CheckCmd(m,"^iblue$") :
+    if CheckCmd(m,"^iAgree$") :
         bot.reply_to(m,"*I am online my dear:)*",parse_mode="Markdown")
     elif h.set(CheckCmd(m,"^echo (.+)")) :
         bot.reply_to(m,h.get().group(1))
