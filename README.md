@@ -1,4 +1,4 @@
-# ASMagic
+# iAgree
 
 ## Short introduction
 
