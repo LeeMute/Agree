@@ -2,16 +2,15 @@
 
 ## Short introduction
 
-This bot has been created with ❤️ by [@jan123](https://telegram.me/jan123) to help people administrate their groups, and includes many useful tools.
+This bot has been created with by [LeeMute](https://telegram.me/LeeMute) to help people administrate their groups, and includes many useful tools.
 
 MagicAntiSpam bot was born as a python [telebot](https://github.com/eternnoir/pyTelegramBotAPI) it has been turned into an administration bot.
 
 #### MagicAntiSpam on Telegram:
 
-- [`@ASMagicBot`](https://telegram.me/ASMagicBot)
+- [`@iAgree`](https://telegram.me/iAgree_Bot)
     - **_branch_**: `master`
-    - **_channel_**: [`@MagicNews`](https://telegram.me/MagicNews).
-    - **_group_**: [`Support Group`](https://telegram.me/joinchat/AAAAAECPv8joesRabLdkGg).
+   
 
 * * *
 
